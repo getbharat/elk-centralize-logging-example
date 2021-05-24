@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: ELK-CENTRALIZE-LOGGING-EXAMPLE
+
+server:
+  port: 9898
+
+logging:
+  file: C:/logs/elk-stack.log
