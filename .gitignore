@@ -1,7 +1,7 @@
 # eclipse project file
 /.classpath
 /.project
-.settings
+.settings/
 
 # Maven
 target/
